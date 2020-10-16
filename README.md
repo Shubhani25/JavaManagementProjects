@@ -1,1 +1,4 @@
 # PractiseProject
+
+This is a Pratice Repository, which contains the projects that are in progress or are just for practising and learning concepts.
+
