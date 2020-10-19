@@ -1,10 +1,11 @@
-# Web Scrapping
+## Web Scrapping
 Web Scrapping is also known as data extraction. It is the process of retrieving data from a website.
 
 There are few websites which allow web scrapping. So before you scrap data from any website, kindly check if its allowed.
 
 # Where is web scrapping used?
 Hope you get some information from these websites listed below.
+
 Link:
     1. https://www.parsehub.com/blog/what-is-web-scraping/
     2. https://www.imperva.com/learn/application-security/web-scraping-attack/#:~:text=Web%20scraping%20is%20used%20in,descriptions%20for%20allied%20seller%20websites.
