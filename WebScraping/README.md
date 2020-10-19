@@ -29,4 +29,5 @@ Prerequisites to install BeautifulSoup
 
 ## How to install?
 To install BeautifulSoup on Windows, Linux, Ios or any operating system, run a simple command-
+
     pip install beautifulsoup4
