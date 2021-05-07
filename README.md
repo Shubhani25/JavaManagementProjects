@@ -8,15 +8,15 @@ This repository consists of Java, Python, HTML- CSS- JavaScript as of now. <br>
 
 ### Project Name:
 
-1. Calculator using JavaScript link: https://github.com/Shubhani25/PractiseProject/tree/main/Calculator
+1. Calculator using JavaScript link: https://github.com/Shubhani25/Projects/tree/main/Calculator
 
-2. Clock using HTML-CSS-JavaScript link:https://github.com/Shubhani25/PractiseProject/tree/main/Clock
+2. Clock using HTML-CSS-JavaScript link:https://github.com/Shubhani25/Projects/tree/main/Clock
 
-3. Hotel Management using Java and DBMS link: https://github.com/Shubhani25/PractiseProject/tree/main/HotelManagement
+3. Hotel Management using Java and DBMS link: https://github.com/Shubhani25/Projects/tree/main/HotelManagement
 
-4. Restaurant Management using Java link: https://github.com/Shubhani25/PractiseProject/tree/main/RestaurantManagement
+4. Restaurant Management using Java link: https://github.com/Shubhani25/Projects/tree/main/RestaurantManagement
 
-5. Web Scrapping using Python's BeautifulSoup module link:https://github.com/Shubhani25/PractiseProject/tree/main/WebScraping
+5. Web Scrapping using Python's BeautifulSoup module link:https://github.com/Shubhani25/Projects/tree/main/WebScraping
 
 <br>
 Many more to come on the way!
